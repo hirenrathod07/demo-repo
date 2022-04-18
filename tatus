@@ -1,0 +1,89 @@
+[33mcommit b4b199da1fcde12c823091700f928045830cdb1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:41:28 2022 +0530
+
+    gitignore and index modified
+
+[33mcommit 21d26875d9fc8990069df271ebb91cdc012a8551[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:29:57 2022 +0530
+
+    deleted tracking of index
+
+[33mcommit bb63e9de27eed02038126e86e311ce9ecd2fc4c3[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:29:17 2022 +0530
+
+    added index to untrack
+
+[33mcommit bbea8b1380ee6c9c1c7971efe7ffdddb0ab42102[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:28:02 2022 +0530
+
+    untracking done for features.txt
+
+[33mcommit 92976726350ae41bd867fa847bd4f45dd449db2f[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:26:54 2022 +0530
+
+    modified features and .gitignore
+
+[33mcommit 0db65e955f96c2258c15f6b8fadf33119c539625[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:25:01 2022 +0530
+
+    feature2 commited
+
+[33mcommit 65e82a1a33a45e7b24f963bb1929e6742ac48744[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:24:00 2022 +0530
+
+    .gitignore modified
+
+[33mcommit addd4083ba739a803c5dc830d3ee6d605971943a[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:20:22 2022 +0530
+
+    remove tracking of feature2.txt
+
+[33mcommit 09a7e789c64def120bab326652e8012a3c3dfea8[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:14:45 2022 +0530
+
+    feature2 changed
+
+[33mcommit 296b3f17adf25cddc17fe018c6a4a6decd61891f[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:14:12 2022 +0530
+
+    added feature2.txt into .gitignore
+
+[33mcommit 8cf476de46873d50ea6f4b4a7c95b2c3c1eec529[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:10:06 2022 +0530
+
+    change made in .gitignore
+
+[33mcommit fac4fc9d2143372ebac05f3f9c34beaa6958a263[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:06:43 2022 +0530
+
+    .gitignore added
+
+[33mcommit 8263f3936bd74a68d750272cca9f8c1de485ac29[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:04:15 2022 +0530
+
+    feature2 added
+
+[33mcommit 11d9d6c98cc40873374d18f52dd09cf23ac7be11[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 15:00:32 2022 +0530
+
+    Update features.txt
+
+[33mcommit 3fd7c60b4daadd78027caccbf000a3d6f553f661[m
+Author: hirenrathod07 <103812396+hirenrathod07@users.noreply.github.com>
+Date:   Mon Apr 18 14:54:43 2022 +0530
+
+    Initial commit
