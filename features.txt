@@ -1,2 +1,2 @@
-all features for version 1 included
+all features for version 2 included
 commit from github
